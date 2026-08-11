@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Credenciales de Firebase
+firebase-key.json
+
+# Archivos de datos locales
+datos_hachi.csv
+alertas_hachi.csv
