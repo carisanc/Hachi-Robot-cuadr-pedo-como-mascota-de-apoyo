@@ -1,0 +1,15 @@
+/* HachiDog.css */
+.hachi-dog-wrap {
+  position: relative;
+  display: inline-block;
+}
+.hachi-dog-wrap svg {
+  filter: drop-shadow(0 12px 28px rgba(139,111,94,0.18));
+}
+.dog-body { animation: float 3.2s ease-in-out infinite; }
+.dog-tail { transform-origin: 10px 5px; animation: wagTail 0.7s ease-in-out infinite; }
+.dog-eye  { animation: blink 4s ease-in-out infinite; transform-origin: center; }
+.dog-leg-fl { animation: bounce 0.9s ease-in-out infinite 0s; transform-origin: center top; }
+.dog-leg-bl { animation: bounce 0.9s ease-in-out infinite 0.45s; transform-origin: center top; }
+.dog-leg-fr { animation: bounce 0.9s ease-in-out infinite 0.22s; transform-origin: center top; }
+.dog-leg-br { animation: bounce 0.9s ease-in-out infinite 0.67s; transform-origin: center top; }

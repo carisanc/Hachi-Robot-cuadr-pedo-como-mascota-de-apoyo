@@ -1,0 +1,20 @@
+{
+  "name": "hachi-backend",
+  "version": "1.0.0",
+  "description": "Backend para Hachi robot - recibe datos del ESP32 y los sirve al frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "csv-writer": "^1.6.0",
+    "express": "^4.22.2",
+    "firebase-admin": "^13.10.0",
+    "ws": "^8.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
