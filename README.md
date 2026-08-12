@@ -13,7 +13,7 @@ El sistema se conecta mediante **WebSockets** a una aplicación web completa des
 
 | Robot Físico Hachi | Aplicación Web (Dashboard) | Base de Datos (Cloud Firestore) |
 | :---: | :---: | :---: |
-| <img width="1600" height="1200" alt="IMG-20260728-WA0006" src="https://github.com/user-attachments/assets/2e1f4089-1c03-4ddf-be5b-f759b2057f71" /> |  | <img width="2169" height="1246" alt="Screenshot_20260811-191431" src="https://github.com/user-attachments/assets/74a73b4b-30db-4624-b443-b12724f8a7a1" /> |
+| <img width="1600" height="1200" alt="IMG-20260728-WA0006" src="https://github.com/user-attachments/assets/2e1f4089-1c03-4ddf-be5b-f759b2057f71" /> | <img width="1280" height="554" alt="Captura de pantalla 2026-08-11 a la(s) 20 29 14" src="https://github.com/user-attachments/assets/aaed0b33-f8ae-4214-a7cd-23c4ec17ff68" /> <img width="1279" height="552" alt="Captura de pantalla 2026-08-11 a la(s) 20 29 41" src="https://github.com/user-attachments/assets/2f7780ed-cf5d-44f8-9b22-5ab234230d1d" /> | <img width="2169" height="1246" alt="Screenshot_20260811-191431" src="https://github.com/user-attachments/assets/74a73b4b-30db-4624-b443-b12724f8a7a1" /> |
 
 ---
 
