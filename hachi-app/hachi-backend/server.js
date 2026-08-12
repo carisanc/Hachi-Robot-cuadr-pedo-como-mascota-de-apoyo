@@ -1,6 +1,5 @@
 /**
  * HACHI BACKEND - Servidor Express + WebSocket + Firebase Firestore
- * Optimizado para cambio de modo instantáneo sin lagueo y con IDs legibles
  */
 
 const express   = require("express");
@@ -181,7 +180,6 @@ wss.on("connection", (ws, req) => {
   });
 });
 
-// 🔥 SUBIDA BATCH CON ID NOMBRE LEGIBLE
 setInterval(async () => {
   if (colaTelemetria.length === 0) return;
 
