@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "cero",
+			"path": ".."
+		},
+		{
+			"name": "miau",
+			"path": "../../miau"
+		}
+	],
+	"settings": {}
+}
