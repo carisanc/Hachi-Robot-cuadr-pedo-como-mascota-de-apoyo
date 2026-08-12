@@ -1,4 +1,4 @@
-# 🐾 Hachi: Robot Perro Cuadrúpedo Como Mascota de Apoyo
+# 🐾 Hachi: Robot Cuadrúpedo Como Mascota de Apoyo
 
 Hachi es un proyecto robótico asistencial basado en una plataforma cuadrúpeda controlada por un microcontrolador **ESP32**. Está diseñado para interactuar con los usuarios y brindarles apoyo mediante dos modos de funcionamiento adaptativos:
 
